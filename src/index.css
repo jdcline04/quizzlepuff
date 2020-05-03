@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.main-title-bar {
+  background-color:#5843AB;
+  padding: 10px 15px;
+}
+
+.main-title-text {
+  font-family: 'Segoe UI', soure-code-pro, 'Courier New', Courier, monospace;
+  font-size: 45px;
+  color: rgb(240, 238, 238);
+}
+
+.nav-button {
+  font-size: 26px;
+  margin: 30px 20px;
+}
+
+.page-footer {
+  position: fixed;
+  text-align: center;
+  bottom: 0;
+  width: 100%
+}
